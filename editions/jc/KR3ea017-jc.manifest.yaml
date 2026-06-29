@@ -1,0 +1,440 @@
+canonical_identifier: bkk:krp/KR3ea017/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ea017/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 素問病機氣宜保命集
+  identifiers:
+    krp: KR3ea017
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04380
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea017.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea017_000-jc.yaml, hash: 'sha256:9246a2f027a3b8fbbfb7b13d58493827b7e831ed1155d22bc86a445112503be5'}
+  - {seq: 1, filename: KR3ea017_001-jc.yaml, hash: 'sha256:9517efc3a21e7b1b08c6338a35ab42d6970390f90653264b0b3bfa69456f116a'}
+  - {seq: 2, filename: KR3ea017_002-jc.yaml, hash: 'sha256:e3df8f8b769b97fe7e4eca0b19dd10d3f4f2d9e9167d11bc44fe915a18be3d88'}
+  - {seq: 3, filename: KR3ea017_003-jc.yaml, hash: 'sha256:c5bbd8509ca9fac2b3d892294827fcbce160bfedf27cae4cdf4513923dbf14e4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea017_000-jc.markers.yaml, hash: 'sha256:0d8ebf196eb1482833d47b0b36c830495246e20fe6cad70c958d6b4261ff71b6'}
+  - {seq: 1, role: markers, filename: assets/KR3ea017_001-jc.markers.yaml, hash: 'sha256:130d168ee041aaf8e22bcf6ef062c98e1a08d8b60ad4bef60ed6c4e0d0685b0c'}
+  - {seq: 2, role: markers, filename: assets/KR3ea017_002-jc.markers.yaml, hash: 'sha256:204a5f21611fad3ca0cc6a15f2fd7893124b3670c75ce743468cf51100a0752d'}
+  - {seq: 3, role: markers, filename: assets/KR3ea017_003-jc.markers.yaml, hash: 'sha256:4e1d0ba6f7c7fb3f858babd6a29cb024064f2fab2a807b3deefc554554561dbb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea017_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 544
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea017_jc_000-d3.h1s1
+    span:
+    - front
+    - 544
+    - 1043
+  label: 楊威素問病機氣宜保命集序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ea017_jc_000-d4.h1s1
+    span:
+    - front
+    - 1043
+    - 1554
+  label: 重刻保命集序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea017_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 15837
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea017_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 872
+  label: 原道論第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea017_jc_001-d5d3
+    span:
+    - body
+    - 872
+    - 3018
+  label: 原脈論第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea017_jc_001-d5d4
+    span:
+    - body
+    - 3018
+    - 3678
+  label: 攝生論第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea017_jc_001-d5d5
+    span:
+    - body
+    - 3678
+    - 4095
+  label: 陰陽論第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea017_jc_001-d5d6
+    span:
+    - body
+    - 4095
+    - 4470
+  label: 察色論第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea017_jc_001-d5d7
+    span:
+    - body
+    - 4470
+    - 5590
+  label: 傷寒論第六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea017_jc_001-d5d8
+    span:
+    - body
+    - 5590
+    - 9985
+  label: 病機論第七
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea017_jc_001-d5d9
+    span:
+    - body
+    - 9985
+    - 10882
+  label: 氣宜論第八
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea017_jc_001-d5d10
+    span:
+    - body
+    - 10882
+    - 15837
+  label: 本草論第九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 19981
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d2
+    span:
+    - body
+    - 2
+    - 4380
+  label: 中風論第十
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d3
+    span:
+    - body
+    - 4380
+    - 5215
+  label: 癘風論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d4
+    span:
+    - body
+    - 5215
+    - 6830
+  label: 破傷風論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d5
+    span:
+    - body
+    - 6830
+    - 8844
+  label: 解利傷寒論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d6
+    span:
+    - body
+    - 8844
+    - 10654
+  label: 熱論第十四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d7
+    span:
+    - body
+    - 10654
+    - 11297
+  label: 內傷論第十五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d8
+    span:
+    - body
+    - 11297
+    - 12490
+  label: 諸瘧論第十六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d9
+    span:
+    - body
+    - 12490
+    - 13994
+  label: 吐論第十七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d10
+    span:
+    - body
+    - 13994
+    - 14602
+  label: 霍亂論第十八
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d11
+    span:
+    - body
+    - 14602
+    - 19111
+  label: 瀉痢論第十九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ea017_jc_002-d6d12
+    span:
+    - body
+    - 19111
+    - 19981
+  label: 心痛論第二十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 18244
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d2
+    span:
+    - body
+    - 2
+    - 2079
+  label: 咳嗽論第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d3
+    span:
+    - body
+    - 2079
+    - 2885
+  label: 虛損論第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d4
+    span:
+    - body
+    - 2885
+    - 3617
+  label: 消渴論第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d5
+    span:
+    - body
+    - 3617
+    - 5145
+  label: 腫脹論第二十四小兒附
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d6
+    span:
+    - body
+    - 5145
+    - 6428
+  label: 眼目論第二十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d7
+    span:
+    - body
+    - 6428
+    - 8694
+  label: 瘡瘍論第二十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d8
+    span:
+    - body
+    - 8694
+    - 8984
+  label: 瘰癧論第二十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d9
+    span:
+    - body
+    - 8984
+    - 9268
+  label: 痔疾論第二十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d10
+    span:
+    - body
+    - 9268
+    - 13193
+  label: 婦人胎產論第二十九帶下附
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d11
+    span:
+    - body
+    - 13193
+    - 13945
+  label: 大頭論第三十雷頭風附
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d12
+    span:
+    - body
+    - 13945
+    - 15051
+  label: 小兒斑疹論第三十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d13
+    span:
+    - body
+    - 15051
+    - 15962
+  label: 藥略第三十二針法附
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7d14
+    span:
+    - body
+    - 15962
+    - 18244
+  label: 附素問元氣五行稽考
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7.d14d4
+    span:
+    - body
+    - 16972
+    - 17622
+  label: 諸吐方法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ea017_jc_003-d7.d14d5
+    span:
+    - body
+    - 17622
+    - 18244
+  label: 治黃腫
+  type: section
+  level: 3
+hash: sha256:375eb6cabcf9731320bfe654a9e094d352e7ee4e718a4c2f3b7d0f2013bc9738
