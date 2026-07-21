@@ -17,12 +17,12 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ea017_000-jc.yaml, hash: 'sha256:9246a2f027a3b8fbbfb7b13d58493827b7e831ed1155d22bc86a445112503be5'}
+  - {seq: 0, filename: KR3ea017_000-jc.yaml, hash: 'sha256:cc2f920138f511858de4a1ad913aba0910f82661120a53698681e0b5d91ee35b'}
   - {seq: 1, filename: KR3ea017_001-jc.yaml, hash: 'sha256:9517efc3a21e7b1b08c6338a35ab42d6970390f90653264b0b3bfa69456f116a'}
   - {seq: 2, filename: KR3ea017_002-jc.yaml, hash: 'sha256:e3df8f8b769b97fe7e4eca0b19dd10d3f4f2d9e9167d11bc44fe915a18be3d88'}
   - {seq: 3, filename: KR3ea017_003-jc.yaml, hash: 'sha256:c5bbd8509ca9fac2b3d892294827fcbce160bfedf27cae4cdf4513923dbf14e4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ea017_000-jc.markers.yaml, hash: 'sha256:6d579693e8b5e0c5be35926010b1a68d15e9158f46c7bbac9dd3918611eb1b60'}
+  - {seq: 0, role: markers, filename: assets/KR3ea017_000-jc.markers.yaml, hash: 'sha256:d1b21bd812ca1cb8ec34f8e0d02a361fea47e6d760b91c592146c2025e68dde8'}
   - {seq: 1, role: markers, filename: assets/KR3ea017_001-jc.markers.yaml, hash: 'sha256:130d168ee041aaf8e22bcf6ef062c98e1a08d8b60ad4bef60ed6c4e0d0685b0c'}
   - {seq: 2, role: markers, filename: assets/KR3ea017_002-jc.markers.yaml, hash: 'sha256:d87c90439d4e4892603595ea07507902db7da9c9e69bd1f9f0de1a00a0f39a64'}
   - {seq: 3, role: markers, filename: assets/KR3ea017_003-jc.markers.yaml, hash: 'sha256:87fb239d4205a71335ffaa92383e245d22c0f03ee68866d6ecce8d277f1d16bb'}
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ea017_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 544
   label: 自序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ea017_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 544
     - 1043
   label: 楊威素問病機氣宜保命集序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ea017_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1043
     - 1554
   label: 重刻保命集序
@@ -437,4 +437,4 @@ table_of_contents:
   label: 治黃腫
   type: section
   level: 3
-hash: sha256:9ff62941c5889d55552d610059e1ba64fdaa897cdccfba77008e40c116955b0b
+hash: sha256:11306d0b527ddd10e57cb38a69fda0c875fd34e163508e19f8185f7a98b93817
